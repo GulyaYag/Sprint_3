@@ -1,0 +1,16 @@
+ru/yandex/praktikum/CourierCredentials.class
+ru/yandex/praktikum/Order.class
+ru/yandex/praktikum/OrderList.class
+ru/yandex/praktikum/IdenticalCourier.class
+ru/yandex/praktikum/CourierClient.class
+ru/yandex/praktikum/Courier.class
+ru/yandex/praktikum/NonExistentUser.class
+ru/yandex/praktikum/CorrectLoginAndPassword.class
+ru/yandex/praktikum/RequiredLogin.class
+ru/yandex/praktikum/LoginRequiredField.class
+ru/yandex/praktikum/PasswordRequiredField.class
+ru/yandex/praktikum/RequiredPassword.class
+ru/yandex/praktikum/SameCourierLogin.class
+ru/yandex/praktikum/CreateOrder.class
+ru/yandex/praktikum/MissingLoginAndPassword.class
+ru/yandex/praktikum/BaseClient.class
