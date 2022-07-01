@@ -1,12 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: ru.yandex.praktikum.LoginCourierTest
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 129.708 s <<< FAILURE! - in ru.yandex.praktikum.LoginCourierTest
-loginWithNonExistentUser(ru.yandex.praktikum.LoginCourierTest)  Time elapsed: 61.507 s  <<< FAILURE!
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 129.289 s <<< FAILURE! - in ru.yandex.praktikum.LoginCourierTest
+loginWithNonExistentUser(ru.yandex.praktikum.LoginCourierTest)  Time elapsed: 61.22 s  <<< FAILURE!
 java.lang.AssertionError: expected:<404> but was:<504>
 	at ru.yandex.praktikum.LoginCourierTest.loginWithNonExistentUser(LoginCourierTest.java:91)
 
-checkLoginRequiredFields(ru.yandex.praktikum.LoginCourierTest)  Time elapsed: 61.159 s  <<< FAILURE!
+checkLoginRequiredFields(ru.yandex.praktikum.LoginCourierTest)  Time elapsed: 61.137 s  <<< FAILURE!
 java.lang.AssertionError: expected:<400> but was:<504>
 	at ru.yandex.praktikum.LoginCourierTest.checkLoginRequiredFields(LoginCourierTest.java:37)
 
